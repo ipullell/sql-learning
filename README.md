@@ -73,8 +73,8 @@ Each topic folder may contain:
 
 ### Fundamentals
 
-- [ ] SELECT
-- [ ] WHERE
+- [✓] SELECT
+- [✓] WHERE
 - [ ] ORDER BY
 - [ ] LIMIT
 
