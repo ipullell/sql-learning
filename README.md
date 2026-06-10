@@ -75,8 +75,8 @@ Each topic folder may contain:
 
 - [✓] SELECT
 - [✓] WHERE
-- [ ] ORDER BY
-- [ ] LIMIT
+- [✓] ORDER BY
+- [✓] LIMIT
 
 ### Aggregation
 
