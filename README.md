@@ -80,11 +80,11 @@ Each topic folder may contain:
 
 ### Aggregation
 
-- [ ] COUNT
+- [✓] COUNT
 - [ ] SUM
-- [ ] AVG
-- [ ] MIN / MAX
-- [ ] GROUP BY
+- [✓] AVG
+- [✓] MIN / MAX
+- [✓] GROUP BY
 - [ ] HAVING
 
 ### Conditional Logic
